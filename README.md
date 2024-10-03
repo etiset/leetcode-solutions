@@ -1,2 +1,2 @@
 # leetcode-solutions
-Solutions for Kattis Problems. 
+Solutions for LeetCode Problems. 
